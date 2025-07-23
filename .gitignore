@@ -1,0 +1,15 @@
+# macOS系统文件
+.DS_Store
+
+# Python编译缓存
+__pycache__/
+*.pyc
+
+# Jupyter检查点
+.ipynb_checkpoints/
+
+# 数据集/大文件（推荐外部托管）
+*.tar.gz
+
+# VS Code 工作区配置（可选）
+.vscode/
