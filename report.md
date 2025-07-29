@@ -36,8 +36,7 @@
 
 ##  Loss 曲线图
 
-
-![LoRA Loss Curve](output.png)  
+<img src="https://raw.githubusercontent.com/Northkim/blip2-finetune-experiments/main/output.png" style="max-width: 100%; height: auto;" />
 
 
 ---
